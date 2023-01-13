@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chihiro Snider
 - 👀 I’m a full-stack software engineer
-- 🌱 I’m currently learning Electron, Redis, TypeScript, AWS, and Docker
+- 🌱 I’m currently contributing to an open source, RediScope, Redis caching metrics visualizer (www.rediscope.com)
 - 💞️ I’m looking to collaborate on any Open Source Project.
 - 📫 You can write to me here -> chihirosnider@gmail.com
 
