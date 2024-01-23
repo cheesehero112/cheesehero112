@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chihiro Snider
-- 👀 I’m a full-stack software engineer
-- 🌱 I’m currently contributing to an open source, [RediScope](https://github.com/oslabs-beta/RediScope), Redis caching metrics visualizer (www.rediscope.com), [RISE](https://github.com/roundhousedesigns/rise-frontend) and [US-Navy-Project](https://github.com/RubySpeeders/US-Navy-Project)
+- 👀 I'm a frontend software engineer & professional classical musician. A fan of Typescript, Javascript, React, and Node. 
+- 🌱 I’m a contributor to an open source, [RediScope](https://github.com/oslabs-beta/RediScope), Redis caching metrics visualizer (www.rediscope.com), [RISE](https://github.com/roundhousedesigns/rise-frontend) and [Drum Roulette](https://github.com/RubySpeeders/Drum-Roulette)
 - 📫 You can write to me here -> chihirosnider@gmail.com
 
 <!---
